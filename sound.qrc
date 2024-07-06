@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bullet-hit-metal-84818.mp3</file>
+        <file>077507_hen-40192.mp3</file>
+        <file>death-sound-1-165630.mp3</file>
+    </qresource>
+</RCC>
